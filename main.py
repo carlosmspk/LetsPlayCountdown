@@ -1,3 +1,4 @@
+from re import S
 from letters import run_letters
 from nums import run_numbers
 
